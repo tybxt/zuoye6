@@ -38,4 +38,4 @@
 定期输出网格模型文件：保存训练中间结果与最终奶牛网格；
 关闭窗口 / 终止程序：结束优化迭代。
 ## 仓库链接
-https://github.com/tybxt/zuoye8
+https://github.com/tybxt/zuoye6
